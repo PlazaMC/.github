@@ -1,1 +1,1 @@
-![Plaza](./plaza_logo.png)
+![Plaza](/profile/plaza_logo.png)
